@@ -1,0 +1,120 @@
+#title {
+	width: 975px;
+	float: right;
+}
+
+#lside {
+	width: 234px;
+	height: 370px;
+	margin: 0 20px 10px 0; 
+	border-radius: 0;
+	border: 1px solid rgb(185,119,65);
+	background: url(./img/bac.png);
+	float: left;
+}
+
+#Duchess {
+	width: 955px;
+	height: 820px;
+	float: right;
+}
+
+#Duchess img{
+	float: right;
+	margin-left: 15px;
+}
+
+#Empress {
+	width: 955px;
+	height: 1040px;
+	float: right;
+}
+
+#Empress img{
+	width: 200px;
+	height: 248px;
+	float: right;
+	margin: 15px 0 15px 15px;
+}
+
+#Physical {
+	width: 955px;
+	height: 1480px;
+	float: right;
+}
+
+#Phy1 {
+	float: right;
+	margin: 0 0 15px 15px;
+}
+
+#Phy2 {
+	float: left;
+	margin: 15px 15px 15px 0;
+}
+
+#Beauty {
+	width: 955px;
+	height: 900px;
+	float: right;
+}
+
+#Beauty img{
+	float: right;
+	margin: 0 0 15px 15px;
+}
+
+#Marriage {
+	width: 955px;
+	height: 800px;
+	float: right;
+}
+
+#Marriage img{
+	float: right;
+	margin: 0 0 15px 15px;
+}
+
+#Birth {
+	width: 955px;
+	height: 1350px;
+	float: right;
+}
+
+#Birth img{
+	float: right;
+	margin: 0 0 15px 15px;
+}
+
+#Hungarian {
+	width: 955px;
+	height: 530px;
+	float: right;
+}
+
+#Hungarian img{
+	float: right;
+	margin: 0 0 15px 15px;
+}
+
+#Travels {
+	width: 955px;
+	height: 450px;
+	float: right;
+}
+
+#Travels img{
+	float: left;
+	margin: 15px 15px 15px 0;
+}
+
+#Mayerling{
+	width: 955px;
+	height: 700px;
+	float: right;
+}
+
+#Mayerling img{
+	float: right;
+	margin: 0 0 15px 15px;
+}

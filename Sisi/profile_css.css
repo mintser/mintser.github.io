@@ -1,0 +1,66 @@
+#rtitle {
+	width: 976px;
+	float: left;
+}
+
+#rside {
+	width: 956px;
+	height: 600px;
+	float: left;
+}
+
+#rside img {
+	margin-right: 15px;
+}
+
+#bottom{
+	width: 1000px;
+	height: 500px;
+	background-color: pink;
+	margin-top: 15px;
+	float: left;
+}
+
+#no1{
+	width: 500px;
+	height: 250px;
+	background: url(./img/no1.jpg);
+	float:left;
+}
+
+#no2{
+	width: 500px;
+	height: 250px;
+	background: url(./img/no2.jpg);
+	float:left;
+}
+
+#no3{
+	width: 500px;
+	height: 250px;
+	background: url(./img/no3.jpg);
+	float:left;
+}
+
+#no4{
+	width: 500px;
+	height: 250px;
+	background: url(./img/no4.jpg);
+	float:left;
+}
+
+#no1:hover{
+	background: url(./img/no11.jpg)
+}
+
+#no2:hover{
+	background: url(./img/no22.jpg)
+}
+
+#no3:hover{
+	background: url(./img/no33.jpg)
+}
+
+#no4:hover{
+	background: url(./img/no44.jpg)
+}
